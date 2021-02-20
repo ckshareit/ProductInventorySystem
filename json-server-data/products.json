@@ -1,0 +1,140 @@
+{
+  "products": [
+    {
+      "id": 4,
+      "ProductName": "Samsung Galaxy",
+      "Category": "Electronics",
+      "SubCategory": "Mobile",
+      "Brand": "samsung",
+      "Rating": "4",
+      "Price": "21000",
+      "stock": "160",
+      "ProductImage": "mobile.jpg"
+    },
+    {
+      "id": 3,
+      "ProductName": "Headphone",
+      "Category": "Electronics",
+      "SubCategory": "Accessories",
+      "Brand": "Boat",
+      "Rating": 5,
+      "Price": 500,
+      "stock": "140",
+      "ProductImage": "headphone.jpg"
+    },
+    {
+      "id": 2,
+      "ProductName": "Table",
+      "Category": "Home & Furniture",
+      "SubCategory": "Decoration",
+      "Brand": "Crystal",
+      "Rating": 4.5,
+      "Price": 4000,
+      "stock": "110",
+      "ProductImage": "table.jpg"
+    },
+    {
+      "id": 5,
+      "ProductName": "Football",
+      "Category": "Sports",
+      "SubCategory": "Outdoor",
+      "Brand": "adidas",
+      "Rating": 3.5,
+      "Price": "500",
+      "stock": "175",
+      "ProductImage": "football.jpg"
+    },
+    {
+      "id": 6,
+      "ProductName": "Cooker",
+      "Category": "Home & Kitchen",
+      "SubCategory": "Utensil",
+      "Brand": "Pigeon",
+      "Rating": 5,
+      "Price": 2000,
+      "stock": "180",
+      "ProductImage": "cooker.jpg"
+    },
+    {
+      "id": 7,
+      "ProductName": "Bolt Cutter",
+      "Category": "Tools",
+      "SubCategory": "Metal Cutter",
+      "Brand": "iBell",
+      "Rating": 3,
+      "Price": 200,
+      "stock": "105",
+      "ProductImage": "cutter.jpg"
+    },
+    {
+      "id": 8,
+      "ProductName": "Tap",
+      "Category": "Home & Bathroom",
+      "SubCategory": "Bathroom",
+      "Brand": "jaquar",
+      "Rating": 5,
+      "Price": 5500,
+      "stock": "200",
+      "ProductImage": "tap.jpg"
+    },
+    {
+      "id": 9,
+      "ProductName": "Torch",
+      "Category": "Home Lighting",
+      "SubCategory": "Torches",
+      "Brand": "wipro",
+      "Rating": 3.5,
+      "Price": 150,
+      "stock": "90",
+      "ProductImage": "torch.jpg"
+    },
+    {
+      "id": 10,
+      "ProductName": "TV",
+      "Category": "Appliances",
+      "SubCategory": "Televisions",
+      "Brand": "LG",
+      "Rating": 4,
+      "Price": 12000,
+      "stock": "100",
+      "ProductImage": "tv.jpg"
+    },
+    {
+      "id": 11,
+      "ProductName": "Laptop",
+      "Category": "Electronics",
+      "SubCategory": "Computer",
+      "Brand": "Dell",
+      "Rating": 4.5,
+      "Price": 4500,
+      "stock": "100",
+      "ProductImage": "laptop.jpg"
+    }
+  ],
+  "users": [
+    {
+      "id": "ck@mail.com",
+      "name": "chandan",
+      "gender": "male",
+      "password": "123@pass"
+    },
+    {
+      "id": "test@mail.com",
+      "name": "Test",
+      "gender": "male",
+      "password": "qwerty"
+    },
+    {
+      "id": "test2@mail.com",
+      "name": "TestName",
+      "gender": "male",
+      "password": "pass"
+    },
+    {
+      "id": "test@mail1.com",
+      "name": "qwerty",
+      "gender": "male",
+      "password": "qwert"
+    }
+  ]
+}
